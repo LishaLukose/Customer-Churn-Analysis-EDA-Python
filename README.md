@@ -7,6 +7,10 @@ This project explores customer churn behavior using a telecom dataset. The goal 
 To analyze customer churn patterns using exploratory data analysis (EDA) and visualization techniques. The goal is to uncover trends and relationships between service features and churn, 
 enabling data-driven retention strategies.
 
+## Dataset
+
+- `Customer Churn.csv`
+
 ## Tools Used
 
 - Python 
